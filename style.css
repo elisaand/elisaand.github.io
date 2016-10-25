@@ -1,6 +1,15 @@
+@import 'https://fonts.googleapis.com/css?family=Oxygen';
+
 body {
+	font-family: 'Oxygen', sans-serif;
 	margin: 0 auto;
 	max-width: 960px;
 	line-height: 1.5;
 	/*padding: 10px 10px; for å få luft mellom toppen og innhold på siden*/
+	border-left: 2px solid #69c;
+	padding-left: 16px;
+}
+
+p {
+	padding-left: 16px;
 }
