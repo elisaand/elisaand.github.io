@@ -3,13 +3,22 @@
 body {
 	font-family: 'Oxygen', sans-serif;
 	margin: 0 auto;
-	max-width: 960px;
+	max-width: 954px;
 	line-height: 1.5;
-	/*padding: 10px 10px; for å få luft mellom toppen og innhold på siden*/
+	padding: 15px 15px;
 	border-left: 2px solid #69c;
 	padding-left: 16px;
+	border-right: 2px solid #69c;
+
 }
 
 p {
 	padding-left: 16px;
 }
+
+/*font-size: ;
+color: ;
+background-color: ;
+font-variant: small-caps;
+text-decoration: underline;
+*/
